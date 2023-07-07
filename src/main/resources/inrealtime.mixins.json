@@ -4,7 +4,7 @@
   "package": "net.wisenoodle.inrealtime.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "ExampleMixin"
+    "MainMixin"
   ],
   "client": [
   ],

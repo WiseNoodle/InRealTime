@@ -22,7 +22,7 @@ import java.time.LocalTime;
 
 
 @Mixin(ServerWorld.class)
-public abstract class ExampleMixin {
+public abstract class MainMixin {
 	@Shadow
 	@Final
 	private ServerWorldProperties worldProperties;
