@@ -16,10 +16,10 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import java.time.LocalTime;
 
 // HUGE thanks and credit to:
-// Code Hammering Specialist
-// Project Unfinisher
-// Koshka
-// For helping me learn how to make a mod (they carried me)
+// - Code Hammering Specialist
+// - Project Unfinisher
+// - Koshka
+// For helping me make this mod.
 
 
 @Mixin(ServerWorld.class)
