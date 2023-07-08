@@ -19,7 +19,7 @@ import java.time.LocalTime;
 // - Code Hammering Specialist
 // - Project Unfinisher
 // - Koshka
-// For helping me make this mod.
+// For helping me make this mod
 
 
 @Mixin(ServerWorld.class)
